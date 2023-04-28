@@ -9,3 +9,4 @@ It now includes steps for GitHub
 Izmene koje se odnose na update liniju About Focus
 
 Izmene i kreiranje brancha(update-readme) na lokalu koje treba da se pushuju na remote
+Jos jedna izmena brancha(update-readme) na lokalu koje treba da se pushuju na remote
